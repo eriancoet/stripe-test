@@ -1,0 +1,24 @@
+
+{
+"id": "prod_Q6qMBefg3coJvW",
+"object": "product",
+"active": true,
+"attributes": [],
+"created": 1715759672,
+"default_price": null,
+"description": "Created with the Stripe CLI",
+"features": [],
+"images": [],
+"livemode": false,
+"marketing_features": [],
+"metadata": {},
+"name": "My First Product",
+"package_dimensions": null,
+"shippable": null,
+"statement_descriptor": null,
+"tax_code": null,
+"type": "service",
+"unit_label": null,
+"updated": 1715759672,
+"url": null
+}%                 
